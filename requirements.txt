@@ -10,3 +10,5 @@ xgboost
 streamlit
 pyyaml
 joblib
+streamlit_folium
+

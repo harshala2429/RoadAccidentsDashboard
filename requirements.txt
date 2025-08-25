@@ -1,13 +1,6 @@
+streamlit
 pandas
-numpy
-matplotlib
 plotly
 folium
 geopandas
-shapely
-scikit-learn
-xgboost
-streamlit
-pyyaml
-joblib
-streamlit_folium==0.17.0
+streamlit_folium

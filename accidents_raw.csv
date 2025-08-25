@@ -1,0 +1,4 @@
+date,time,state,city,vehicle_type,weather,road_type,severity,lat,lon
+2023-06-01,18:30,maharashtra,pune,car,clear,highway,medium,18.5204,73.8567
+2023-06-02,22:15,maharashtra,mumbai,truck,rain,urban road,high,19.0760,72.8777
+2023-06-03,09:45,delhi,delhi,car,fog,urban road,low,28.7041,77.1025

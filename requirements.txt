@@ -10,4 +10,4 @@ xgboost
 streamlit
 pyyaml
 joblib
-streamlit_folium
+streamlit_folium==0.17.0
